@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="act3.xsd">
+    <persona>
+    <nombre>Juan</nombre>
+    <ciudad>Madrid</ciudad>
+    <edad>29</edad>
+    </persona>
+    <persona>
+    <nombre>Maria</nombre>
+    <ciudad>Barcelona</ciudad>
+    <edad>40</edad>
+    </persona>
+    
+</personas>
